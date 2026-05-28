@@ -1,13 +1,13 @@
 ````markdown
-<!-- ========================================================= -->
-<!--               RAMKUMAR SAKTHIVEL README                   -->
-<!-- ========================================================= -->
+ ========================================================= 
+               RAMKUMAR SAKTHIVEL README                   
+ ========================================================= 
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:6a00ff,100:12002b&height=220&section=header&text=Ramkumar%20Sakthivel&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Networking%20%7C%20Python%20Developer&descAlignY=58&descSize=18" />
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hey There, I'm Ramkumar Sakthivel
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hey There, I'm Ramkumar Sakthivel
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=700&lines=Cybersecurity+%26+Networking+Enthusiast;Python+Developer;Linux+User;Security+Research+Learner;Building+Future+Security+Solutions..." />
 
@@ -17,13 +17,13 @@
 
 <div align="center">
 
-### ⚡ Retro Pixel Anime • Cyberpunk Purple • Recruiter Friendly ⚡
+ ⚡ Retro Pixel Anime • Cyberpunk Purple • Recruiter Friendly ⚡
 
 </div>
 
 ---
 
-# 🧠 About Me
+ 🧠 About Me
 
 ```yaml
 Name: Ramkumar Sakthivel
